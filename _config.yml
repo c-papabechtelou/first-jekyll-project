@@ -1,3 +1,5 @@
+url: https://c-papabechtelou.github.io/first-jekyll-project
+
 collections:
   authors:
     output: true
